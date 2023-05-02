@@ -1,0 +1,10 @@
+ID,Name,Price,Description,rating,Category,Img,Created By,Created At,Updated At
+3,chair,400,wooden chair,3,furnitures,img-1682604374931-214652480.jpeg,12,Thu Apr 27 2023 19:36:14 GMT+0530 (India Standard Time),Thu Apr 27 2023 19:36:14 GMT+0530 (India Standard Time)
+4,comb,30,wooden ,3,makeup,img-1682604488847-900302949.jpeg,12,Thu Apr 27 2023 19:38:08 GMT+0530 (India Standard Time),Thu Apr 27 2023 19:38:08 GMT+0530 (India Standard Time)
+7,bottle,850,water bottle,4.2,home appliences,img-1682655813936-137845623.jpeg,15,Fri Apr 28 2023 09:53:33 GMT+0530 (India Standard Time),Fri Apr 28 2023 09:53:33 GMT+0530 (India Standard Time)
+5,calculator,800,for engineers,4.5,makeup,img-1682604551592-326749863.jpeg,12,Thu Apr 27 2023 19:39:11 GMT+0530 (India Standard Time),Tue May 02 2023 10:11:33 GMT+0530 (India Standard Time)
+9,bag,1300,college bag,4.5,stationaries,img-1682655924215-667757653.jpeg,15,Fri Apr 28 2023 09:55:24 GMT+0530 (India Standard Time),Tue May 02 2023 10:14:37 GMT+0530 (India Standard Time)
+8,notebook,130,ruled 100 page,4.5,stationaries,img-1682655865337-650062633.jpeg,15,Fri Apr 28 2023 09:54:25 GMT+0530 (India Standard Time),Tue May 02 2023 10:15:36 GMT+0530 (India Standard Time)
+1,pen,20,none,3.3,stationaries,img-1682404181760-794564878.png,15,Tue Apr 25 2023 11:59:41 GMT+0530 (India Standard Time),Tue May 02 2023 10:39:42 GMT+0530 (India Standard Time)
+2,pen,20,none,3.5,stationaries,img-1682404650531-481677307.png,15,Tue Apr 25 2023 12:07:30 GMT+0530 (India Standard Time),Tue May 02 2023 10:39:55 GMT+0530 (India Standard Time)
+6,laptop,80000,gaming,4,electronics,img-1682604843236-721176513.jpeg,12,Thu Apr 27 2023 19:44:03 GMT+0530 (India Standard Time),Tue May 02 2023 10:42:05 GMT+0530 (India Standard Time)

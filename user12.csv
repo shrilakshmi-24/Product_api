@@ -1,0 +1,5 @@
+ID,Name,Price,Description,rating,Category,Img,Created By,Created At,Updated At
+3,chair,400,wooden chair,3,furnitures,img-1682604374931-214652480.jpeg,12,Thu Apr 27 2023 19:36:14 GMT+0530 (India Standard Time),Thu Apr 27 2023 19:36:14 GMT+0530 (India Standard Time)
+4,comb,30,wooden ,3,makeup,img-1682604488847-900302949.jpeg,12,Thu Apr 27 2023 19:38:08 GMT+0530 (India Standard Time),Thu Apr 27 2023 19:38:08 GMT+0530 (India Standard Time)
+6,laptop,80000,gaming,4,electronics,img-1682604843236-721176513.jpeg,12,Thu Apr 27 2023 19:44:03 GMT+0530 (India Standard Time),Thu Apr 27 2023 19:44:03 GMT+0530 (India Standard Time)
+5,calculator,800,for engineers,4.5,makeup,img-1682604551592-326749863.jpeg,12,Thu Apr 27 2023 19:39:11 GMT+0530 (India Standard Time),Tue May 02 2023 10:11:33 GMT+0530 (India Standard Time)
